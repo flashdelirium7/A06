@@ -1,0 +1,62 @@
+.shadow {
+  text-shadow: 2px 2px 4px #800000;
+}
+
+body {
+      font-family: Arial, sans-serif;
+    
+    background-color: white;
+}
+
+#TownHall {
+    height: 85px;
+    float: left;
+    margin-right: 15px;
+}
+
+#Valley {
+    font-size: 24px;
+    font-weight: bold;
+    color: #800000;
+    margin-top: 10px;
+}
+
+#Celebration {
+     font-size: 18px;
+    font-style: italic;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.section-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: #800000;
+    margin-top: 20px;
+	
+}
+
+.section-header {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.speaker {
+    
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.speaker h3 {
+    width: 200px;
+}
+
+.speaker-img {
+    height:100px;
+	width:100px;
+}
+
+.footer {
+    text-align: center;
+    font-size: 14px;
+}
